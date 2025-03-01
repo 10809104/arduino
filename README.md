@@ -18,8 +18,11 @@
 ## 專案簡介
 
 本專案結合電子紙與 RFID 模組，可透過 Arduino UNO 讀取 RFID 標籤資料同時操作電子紙。還可與其他設備進行 UART 通訊，並透過第 5 腳接收資料，實現更複雜的功能。專案提供詳細的硬體接線圖與數據收發範例，幫助使用者深入理解整體系統運作。
-實體接線圖 ([connect.jpg](./connect.jpg)) 
-實際收發圖 ([transmit.jpg](./transmit.jpg))
+
+實體接線圖
+![connect.jpg](./connect.jpg)
+實際收發圖 
+![transmit.jpg](./transmit.jpg)
 
 ## 硬體說明
 
