@@ -1,4 +1,4 @@
-# Arduino UNO 專案 - 電子紙 2.66′′ e-Paper Module (G) 與 RFID RC522 通訊
+# Arduino UNO 專案 - 2.66′′ e-Paper Module (G) 與 RFID RC522 模組通訊
 
 本專案結合 Arduino UNO、電子紙 (e-Paper) 與 RFID 模組，實現數據讀取與顯示，並計劃與其他設備進行 UART 通訊。專案提供完整的硬體接線圖與數據收發範例，幫助使用者直觀了解操作流程。
 
@@ -191,5 +191,6 @@
 
 ---
 <footer>
-  <p>2025 © 專案名稱</p>
+  <p>2025 © Arduino UNO 專案 - 2.66′′ e-Paper Module (G) 與 RFID RC522 模組通訊
+</p>
 </footer>
